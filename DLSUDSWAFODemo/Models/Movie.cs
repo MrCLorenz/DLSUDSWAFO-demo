@@ -1,4 +1,4 @@
-﻿using DLSUDSWAFODemo.Data;
+﻿using DLSUDSWAFODemo.Data.Enums;
 using System.ComponentModel.DataAnnotations;
 
 namespace DLSUDSWAFODemo.Models

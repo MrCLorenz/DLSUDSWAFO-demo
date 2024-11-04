@@ -1,4 +1,4 @@
-﻿namespace DLSUDSWAFODemo.Data
+﻿namespace DLSUDSWAFODemo.Data.Enums
 {
     public enum MovieCategory
     {
